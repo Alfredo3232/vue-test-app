@@ -37,7 +37,7 @@ export default {
 }
 
 html {
-  font-family: "Jost", sans-serif;
+  font-family: "Georgia", serif;
 }
 
 body {
