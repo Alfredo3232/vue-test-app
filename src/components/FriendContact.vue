@@ -32,7 +32,7 @@ export default {
       this.detailsAreVisible = !this.detailsAreVisible;
     },
     toggleFavorite() {
-      if (this.isFavorite === "1") {
+      if (this.friendIsFavorite === "1") {
         this.friendIsFavorite = "0";
       } else {
         this.friendIsFavorite = "1";
