@@ -2,8 +2,16 @@
   <section>
     <header><h1>My Friends</h1></header>
     <ul>
-      <friend-contact></friend-contact>
-      <friend-contact></friend-contact>
+      <friend-contact
+        name="John Wick"
+        phone-number="098 7654 3210"
+        email-address="wick@localhost.com"
+      ></friend-contact>
+      <friend-contact
+        name="Jenny"
+        phone-number="012 3456 7890"
+        email-address="jenny@localhost.com"
+      ></friend-contact>
     </ul>
   </section>
 </template>
