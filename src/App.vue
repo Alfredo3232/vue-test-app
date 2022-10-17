@@ -6,11 +6,13 @@
         name="John Wick"
         phone-number="098 7654 3210"
         email-address="wick@localhost.com"
+        is-favorite="1"
       ></friend-contact>
       <friend-contact
         name="Jenny"
         phone-number="012 3456 7890"
         email-address="jenny@localhost.com"
+        is-favorite="1"
       ></friend-contact>
     </ul>
   </section>
